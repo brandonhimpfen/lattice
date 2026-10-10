@@ -1,5 +1,11 @@
 # Lattice
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
+
 Lattice is a lightweight, provider-neutral Python framework for working with large language models. It provides a small set of typed primitives for model invocation, messages, prompts, structured output, tools, streaming and provider integrations without requiring applications to adopt a large orchestration runtime.
 
 Lattice 0.1 focuses on the model boundary. Agents, pipelines, retrieval systems, vector stores, automatic retries and hosted infrastructure are intentionally outside the initial scope.
